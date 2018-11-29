@@ -84,37 +84,3 @@ FancyToast.makeText(yourContext, "I'm a custom Toast", duration, type, yourimage
 
 
 <img src="https://github.com/Shashank02051997/FancyToast-Android/blob/master/fancytoastcollage.png">
-
-
-## Contributing
-
-Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/FancyToast-Android/pulls).
-
-Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
-but will be thoroughly reviewed .
-
-### Contact - Let's become friend
-- [Twitter](https://twitter.com/shashank020597)
-- [Github](https://github.com/Shashank02051997)
-- [Linkedin](https://www.linkedin.com/in/shashank-singhal-a87729b5/)
-- [Facebook](https://www.facebook.com/shashanksinghal02)
-
-## License
-
-* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-```
-Copyright 2017 Shashank Singhal
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
- http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
